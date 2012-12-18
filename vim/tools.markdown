@@ -44,6 +44,8 @@ vim-scripts.org mirror.
 
  * [vim-addon-manager](http://github.com/MarcWeber/vim-addon-manager)
    is a package manager written 100% in VimL.
+ * [sunaku.vim](https://github.com/sunaku/.vim) uses Git URL files and UNIX
+   shell scripts to manage plugins.
  * [Janus](http://github.com/carlhuda/janus) is a collection of plugins but
    does include its own plugin manager.
  * [Vimpire](https://bitbucket.org/sharat87/vimpire) reads bundle tags
